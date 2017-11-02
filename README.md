@@ -31,7 +31,7 @@
 * Paivio, A., 1986. Mental representations ; a dual coding approach / Allan Paivio., Oxford: Oxford Univ. Press.
 
 * 한국어 감정 분석
-  * http://hosting02.snu.ac.kr/~snucss/wp-content/uploads/2016/04/11.11_신효필교수.pdf
+  * http://hosting02.snu.ac.kr/~snucss/wp-content/uploads/2016/04/11.11_신효필교수.pdf
   * https://github.com/mrlee23/KoreanSentimentAnalyzer
   * http://word.snu.ac.kr/kosac/lexicon.php
 * Sentiment Analysis
