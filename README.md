@@ -29,3 +29,16 @@
 * Kahneman, D., 2013. Thinking, fast and slow / Daniel Kahneman. 1st pbk., New York: Farrar, Straus and Giroux. 
 * Stanovich, K.E. & West, R.F., 2000. Individual differences in reasoning: Implications for the rationality debate? Behavioral and Brain Sciences, 23(5), pp.645–665.
 * Paivio, A., 1986. Mental representations ; a dual coding approach / Allan Paivio., Oxford: Oxford Univ. Press.
+
+* 한국어 감정 분석
+  * http://hosting02.snu.ac.kr/~snucss/wp-content/uploads/2016/04/11.11_신효필교수.pdf
+  * https://github.com/mrlee23/KoreanSentimentAnalyzer
+  * http://word.snu.ac.kr/kosac/lexicon.php
+* Sentiment Analysis
+  * http://text-processing.com/demo/sentiment/, http://text-processing.com/docs/sentiment.html
+* SentiWordNet
+  * http://www.lifebloom.biz/2017/07/29/python을-활용한-텍스트-마이닝-8-텍스트-분석-감성-분석sentiment-ana/
+* Curl
+  * https://curl.trillworks.com
+* Oxford Dictionaries API
+  * https://developer.oxforddictionaries.com/documentation
